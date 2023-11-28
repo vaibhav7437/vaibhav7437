@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sinha</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav Sinha </h1>
+<h5 align="left">A passionate Java developer from India</h5>
+
+<h5>🌐 Spring Wizardry: I've mastered the arcane arts of the <b> Spring framework—Spring Boot, Spring MVC, and Spring Data JPA </b>. I build RESTful APIs that even Gandalf would be proud of.</h5>
+
+<h5>🔍 Database Magician: From SQL incantations to database design wizardry, I make data dance to my tunes. MySQL and PostgreSQL bow down to my command!</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav7437&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav7437" /> </p>
 
