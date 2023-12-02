@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Backend Development and Angular**
 
-- 👯 I’m looking to collaborate on **Apibuilding & Microservices**
+- 👯 I’m looking to collaborate on **Api_building & Microservices**
 
 - 💬 Ask me about **Backend Technologies**
 
