@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **C_R_M Model**
 
-- 🌱 I’m currently learning **Backend Development and Angular**
+- 🌱 I’m currently learning **Backend Development **
 
 - 👯 I’m looking to collaborate on **Api_building & Microservices**
 
